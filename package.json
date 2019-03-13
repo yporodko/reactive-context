@@ -1,0 +1,32 @@
+{
+  "name": "reactive-context",
+  "version": "0.0.1",
+  "description": "React.Context with RxJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yporodko/reactive-context.git"
+  },
+  "keywords": [
+    "react",
+    "rxjs",
+    "reactive"
+  ],
+  "author": "Yaroslav Porodko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yporodko/reactive-context/issues"
+  },
+  "homepage": "https://github.com/yporodko/reactive-context#readme",
+  "dependencies": {
+    "enzyme": "^3.9.0",
+    "identity-obj-proxy": "^3.0.0",
+    "lodash": "^4.17.11",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.4",
+    "rxjs": "^6.4.0"
+  }
+}
